@@ -135,29 +135,6 @@ Agentic chatbot:
 
 ------------------------------------------------------------------------
 
-# 📂 Project Structure
-
-    Agentic_ai_web_chatbot
-    │
-    ├── main.py
-    │
-    ├── agents/
-    │   ├── agent_controller.py
-    │   └── reasoning_logic.py
-    │
-    ├── tools/
-    │   ├── web_search_tool.py
-    │   └── api_tools.py
-    │
-    ├── utils/
-    │   └── helper_functions.py
-    │
-    ├── requirements.txt
-    ├── .env.example
-    └── README.md
-
-------------------------------------------------------------------------
-
 # ⚙️ Installation
 
 ### 1️⃣ Clone the repository
